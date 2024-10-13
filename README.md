@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @nt-one
+- 👀 I’m interested in making games and useful tools for windows
+- 🌱 I’m currently learning C# and Python
+- 💞️ I’m looking to collaborate on Unity games
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I wanna start a games studio someday
